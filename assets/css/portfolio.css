@@ -1,0 +1,19 @@
+/* Stlye for Info Box */
+#content {
+    border: 2px solid black;
+   margin-top: 50px;
+   margin-bottom: 30px; 
+}
+/* Style for spacing between Navbar & top of top two cards */
+#portfolio {
+    margin-top: 50px;
+}
+/* Style for curved edges on cards */
+.curve {
+    border-radius: 20px;
+}
+/* Style for spacing between bottom of page & bottom of bottom two cards */
+.topmar {
+    margin-top: 20px;
+    margin-bottom: 50px;
+}

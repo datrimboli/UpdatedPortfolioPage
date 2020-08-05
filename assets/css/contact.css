@@ -1,0 +1,10 @@
+/* Stlye for Info Box */
+#content {
+    border: 2px solid black;
+    border-radius: 10px;
+   margin-top: 50px;
+}
+/* Style for space between Submit button & box border*/
+#marginb {
+    margin-bottom: 20px;
+}

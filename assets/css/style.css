@@ -1,0 +1,15 @@
+/* Style for photo of me */
+#picture {
+    margin-top: 50px
+}
+/* Style for text about me */
+#picturetext {
+    margin-top: 50px;
+}
+/* Style for centered text on smaller screen */
+@media screen and (max-width: 575px) {
+   
+    #picturetext {
+        text-align: center;
+    }
+  }
