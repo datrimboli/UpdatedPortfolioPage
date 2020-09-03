@@ -13,3 +13,8 @@
         text-align: center;
     }
   }
+
+  .bigger {
+      width: 382px;
+      height: 290px;
+  }
