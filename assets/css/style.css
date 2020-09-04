@@ -18,3 +18,13 @@
       width: 382px;
       height: 290px;
   }
+
+.navcolor {
+    background: teal;
+    border-color: tomato;
+    
+}
+
+.topmar {
+    align-content: center;
+}
